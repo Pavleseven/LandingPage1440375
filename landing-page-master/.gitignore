@@ -1,6 +1,4 @@
 .parcel-cache
-.dist
-.node-modules
 .prettierrc
 package-lock.json
 package.json
